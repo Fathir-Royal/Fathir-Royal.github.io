@@ -272,6 +272,8 @@ Mengurutkan aktivitas berdasarkan waktu selesai menggunakan `sort()` dengan krit
 
 ---
 
+## 🎯 **Kesimpulan** {#kesimpulan}
+
 ### 📋 **Ringkasan Pembelajaran:**
 
 **Activity Selection Problem (ASP)** adalah masalah optimasi yang sangat umum dalam dunia nyata. Dengan pendekatan **greedy algorithm**, kita dapat menyelesaikannya secara efisien dan optimal.

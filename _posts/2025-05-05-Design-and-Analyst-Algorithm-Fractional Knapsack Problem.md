@@ -429,6 +429,10 @@ if __name__ == "__main__":
 
 ---
 
+## 🏆 **Kesimpulan** {#kesimpulan}
+
+### 📋 **Ringkasan Key Points:**
+
 1. **🎯 Fleksibilitas Fractional**
    - Dalam Fractional Knapsack, kita dapat memilih sebagian barang
    - Memberikan solusi yang lebih optimal dibandingkan 0/1 knapsack dalam konteks fractional
